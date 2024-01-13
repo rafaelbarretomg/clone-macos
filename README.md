@@ -4,6 +4,7 @@
 Projeto realizado em flutter, referente a um software que simula um desktop de MacOs. Foi utilizado varios conceitos de linguagem tais como: Provider para gerenciamento de estado, fullscreen_window para colocar o software em tela cheia.
 
 <h2>Funcionalidades</h2>
+
 ✔️O software abre direto na tela do desktop, nele é mostrado a barra de menu no topo e os atalhos embaixo.
 
 ✔️A barra de menu é apenas visual nao tem funcionalidades, exceto o menu 'ajuda' que coloquei a função de colocar o software em tela cheia e a hora que o software puxa do sistema.
@@ -14,10 +15,12 @@ Projeto realizado em flutter, referente a um software que simula um desktop de M
 
 <h2>Layout</h2>
 
-![Projeto sem Título4](https://github.com/rafaelbarretomg/clone-macos/assets/86436697/98d10dd0-5083-4592-ba14-f1771d0b852b)
+![Gif](https://github.com/rafaelbarretomg/clone-macos/assets/86436697/98d10dd0-5083-4592-ba14-f1771d0b852b)
 
 <h2>Autor</h2>
 
-https://avatars.githubusercontent.com/u/86436697?v=4
+<h3>Rafael Barreto</h3>
+
+![Foto Autor](https://avatars.githubusercontent.com/u/86436697?v=4)
 
 https://github.com/rafaelbarretomg
