@@ -1,5 +1,9 @@
 <h1>Clone MacOs Desktop</h1>
 
+<h2>Objetivo do projeto</h2>
+
+Projeto criado com o intuito de aprender, treinar e aperfeiçoar o gerenciamento de estado utilizando o provider.
+
 <h2>Descrição do Projeto</h2>
 Projeto realizado em flutter, referente a um software que simula um desktop de MacOs. Foi utilizado varios conceitos de linguagem tais como: Provider para gerenciamento de estado, fullscreen_window para colocar o software em tela cheia.
 
